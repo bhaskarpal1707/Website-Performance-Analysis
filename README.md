@@ -24,7 +24,7 @@ This repository contains a comprehensive analysis of website user session data, 
   - [Traffic vs. Engagement Correlation](#traffic-vs-engagement-correlation)
 - [Key Insights & Takeaways](#key-insights--takeaways)
 - [Conclusion](#conclusion)
-
+- [Contact](#Contact)
 ---
 
 ## Project Objectives
