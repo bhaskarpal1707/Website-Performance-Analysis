@@ -1,5 +1,6 @@
 # Website Performance Analysis
 
+![Image (1)](https://github.com/user-attachments/assets/ffcb761e-a590-4dd6-b007-42ff58a76cd4) 
 
 
 ## Overview
